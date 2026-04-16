@@ -2,8 +2,8 @@
  * digunakan agar libary buatan manualku hanya di load oleh kompiler 1 kali
  */
 
-#ifndef PRIMITIVES_H
-#define PRIMITIVES_H
+#ifndef COMMON_TYPES_PRIMITIVES_H
+#define COMMON_TYPES_PRIMITIVES_H
 
 /*
  *  menggunakan libary yang sudah dibuat orang lain secara manual

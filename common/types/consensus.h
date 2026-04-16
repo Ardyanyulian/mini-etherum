@@ -1,5 +1,5 @@
-#ifndef CONSENSUS_H
-#define CONSENSUS_H
+#ifndef COMMON_TYPES_CONSENSUS_H
+#define COMMON_TYPES_CONSENSUS_H
 
 #include "execution.h"
 #include "primitives.h"
